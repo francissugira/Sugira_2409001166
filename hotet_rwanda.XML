@@ -1,0 +1,103 @@
+
+<hotelstore>
+
+<hotels>
+<hotelname>RADISSON BLUE</hotelname>
+<hotel category="5stars"> </hotel>
+
+<rooms> 
+<room_type> single</room_type>
+<room_price> $300 </room_price>
+</rooms>
+<rooms> 
+<room_type> Twin</room_type>
+<room_price> $600 </room_price>
+</rooms>
+<rooms> 
+<room_type> Executive </room_type>
+<room_price> $1000 </room_price>
+</rooms>
+<website>www.radissonblue.com </website>
+</hotels>
+
+
+<hotels>
+<hotelname>KIGALI MARRIOT HOTEL</hotelname>
+<hotel category="5stars"> </hotel>
+
+<rooms> 
+<room_type> single</room_type>
+<room_price> $200 </room_price>
+</rooms>
+<rooms> 
+<room_type> Twin</room_type>
+<room_price> $500 </room_price>
+</rooms>
+<rooms> 
+<room_type> Executive </room_type>
+<room_price> $9000 </room_price>
+</rooms>
+<website>www.marriotkigali.com </website>
+</hotels>
+
+<hotels>
+<hotelname>KIGALI SERENA HOTEL</hotelname>
+<hotel category="5stars"> </hotel>
+
+<rooms> 
+<room_type> single</room_type>
+<room_price> $150 </room_price>
+</rooms>
+<rooms> 
+<room_type> Twin</room_type>
+<room_price> $450 </room_price>
+</rooms>
+<rooms> 
+<room_type> Executive </room_type>
+<room_price> $800 </room_price>
+</rooms>
+<website>www.serenakigali.com </website>
+</hotels>
+
+
+<hotels>
+<hotelname>LANDMARK SUITES</hotelname>
+<hotel category="4stars"> </hotel>
+
+<rooms> 
+<room_type> single</room_type>
+<room_price> $100 </room_price>
+</rooms>
+<rooms> 
+<room_type> Twin</room_type>
+<room_price> $200 </room_price>
+</rooms>
+<rooms> 
+<room_type> VIP </room_type>
+<room_price> $400 </room_price>
+</rooms>
+<website>www.landmarksuites.com </website>
+</hotels>
+
+<hotels>
+<hotelname>KIVU GATES</hotelname>
+<hotel category="4stars"> </hotel>
+
+<rooms> 
+<room_type> single</room_type>
+<room_price> $110 </room_price>
+</rooms>
+<rooms> 
+<room_type> Twin</room_type>
+<room_price> $200 </room_price>
+</rooms>
+<rooms> 
+<room_type> VIP </room_type>
+<room_price> $300 </room_price>
+</rooms>
+<website>www.kivugates.com </website>
+</hotels>
+
+
+
+</hotelstore>
